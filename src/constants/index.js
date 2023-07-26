@@ -25,7 +25,7 @@ export const features = [
     icon: star,
     title: "Cashback",
     content:
-      "Earn while you spend with our credit card offering a generous 2% cashback on all your purchases.",
+      "Earn while you spend with our credit card offering a generous 2% cashback on all your purchases",
   },
   {
     id: "feature-2",
