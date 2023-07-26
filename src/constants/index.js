@@ -23,9 +23,9 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Cashback",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Earn while you spend with our credit card offering a generous 2% cashback on all your purchases.",
   },
   {
     id: "feature-2",

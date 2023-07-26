@@ -28,9 +28,7 @@ const Hero = () => {
           Premium Card
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Our team of experts uses a methodology to identify the credit cards
-          most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+        Unlock financial freedom and limitless possibilities with our high credit limit credit card – the key to realizing your dreams and enjoying unparalleled purchasing power at your fingertips!
         </p>
       </div>
 
