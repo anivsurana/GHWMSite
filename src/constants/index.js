@@ -72,19 +72,19 @@ export const feedback = [
 
 export const stats = [
   {
+    title: "Credit Limit",
+    value: "$20,000"
+    ,
+  },
+  {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Intro Annual Percentage Rate",
+    value: "0%",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
-  },
-  {
-    id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Cashback on all purchases",
+    value: "2%",
   },
 ];
 
