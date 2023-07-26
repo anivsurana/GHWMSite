@@ -13,8 +13,9 @@ const CardDeal = () => (
         Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
         aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
       </p>
-
-      <Button styles={`mt-10`} />
+      <a href="https://verified.capitalone.com/auth/signin" target="_blank">
+        <Button styles={`mt-10`} />
+      </a>
     </div>
 
     <div className={layout.sectionImg}>

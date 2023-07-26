@@ -20,7 +20,9 @@ const Hero = () => {
             <span className="text-gradient">Quantum</span>{" "}
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
+            <a href="https://verified.capitalone.com/auth/signin" target="_blank">
             <GetStarted />
+            </a>
           </div>
         </div>
 
@@ -28,7 +30,8 @@ const Hero = () => {
           Premium Card
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Unlock financial freedom and limitless possibilities with our high credit limit credit card – the key to realizing your dreams and enjoying unparalleled purchasing power at your fingertips!
+        Unlock financial freedom and limitless possibilities with our high credit limit credit card –
+         the key to realizing your dreams and enjoying unparalleled purchasing power at your fingertips!
         </p>
       </div>
 

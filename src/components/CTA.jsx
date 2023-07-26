@@ -12,7 +12,9 @@ const CTA = () => (
     </div>
 
     <div className={`${styles.flexCenter} sm:ml-10 ml-0 sm:mt-0 mt-10`}>
+    <a href="https://verified.capitalone.com/auth/signin" target="_blank">
       <Button />
+    </a>
     </div>
   </section>
 );
