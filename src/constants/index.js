@@ -47,7 +47,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "Golden Horizon's CapitalOne Quantum Premium Card has exceeded my expectations. I've never had a credit card that offered such generous perks and unlimited resources. It has become an essential part of my financial toolkit.",
     name: "Aniv Surana",
     title: "Software Developer",
     img: people01,
@@ -55,7 +55,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "This credit card is a true game-changer. The range of rewards and perks is incredible, and I love having access to exclusive benefits. The CapitalOne Premium Card has made managing my finances a breeze.",
     name: "Andrea Hernandez",
     title: "Founder & Leader",
     img: people02,
@@ -63,7 +63,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "I think has set a new standard for credit cards. The exclusive benefits and unparalleled rewards program make it stand out in a crowded market. Five stars from me!",
     name: "Johnathan Ngo",
     title: "Founder & Leader",
     img: people03,
